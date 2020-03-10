@@ -11,9 +11,9 @@ console.log(message);
 // Everyone's participating in an icebreaker and has to introduce themselves. 
 // It goes something like:
 
-console.log("Hi! My name is ${name}");
-console.log("I'm in the " + grade + "th grade.");
-console.log("A fun fact about me is that " + funFact);
+console.log(`Hi! My name is ${name}`);
+console.log(`I'm in the ${grade}th grade.`);
+console.log(`A fun fact about me is that ${funFact}`);
 
 // Declare and initalize the variables with your response! 
 // Hint: Also think about where you would declare and initialize those variables
