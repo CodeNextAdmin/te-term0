@@ -21,6 +21,22 @@ console.log(`A fun fact about me is that ${funFact}`);
 // **** Upchallenge ****
 // Can you also print out the data type of the variables? 
 
+
+
+
+// **** Problem 2 ****
+// Create a string for the different lines of the Happy Birthday Song
+// Print out the song using the stings you declared.
+
+
+
+
+// **** Problem 3 ****
+// Print out a string that has quotation marks in it.
+
+
+
+
 /* -------------------------------------------- */
 
 // Challenge 2: 
