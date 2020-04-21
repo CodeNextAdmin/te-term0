@@ -43,7 +43,7 @@ console.log(`A fun fact about me is that ${funFact}`);
 
 
 // **** Challenge 1: Problem 3 ****
-// Print out a string that has quotation marks in it.
+// Print out a string that has backticks in it.
 
 
 
